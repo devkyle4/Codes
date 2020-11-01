@@ -1,0 +1,5 @@
+{
+    "todohighlight.keywordsPattern": "^/TODO/$",
+    "quokka.compactMessageOutput": true,
+    "quokka.suppressExpirationNotifications": true
+}
